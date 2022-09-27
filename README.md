@@ -1,5 +1,4 @@
-# todoApp
-<p> react todo app</p>
+# Todo-list App
 <p>This is a super simple Todo App built using React.js and json placeholder</p>
 <h2> Build setup</h2>
 # install dependencies
